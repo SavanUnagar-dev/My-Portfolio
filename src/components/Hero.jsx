@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Img from "../assets/savan.png";
-import CV from "../assets/prj/my-resume.png";
+import CV from "../assets/my-resume.png";
 
 const Hero = () => {
   return (

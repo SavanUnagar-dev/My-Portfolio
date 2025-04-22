@@ -17,31 +17,31 @@ const projects = [
     name: "Coffee-Shop",
     description:"A modern coffee shop app built with React.js and Tailwind CSS.",
     link: "https://cofee-shope-savan.netlify.app/",
-    image: {CofeeShop},
+    image: CofeeShop,
   },
   {
     name: "Book-Store",
     description: "A responsive Book Store app built with React.js and Tailwind CSS,",
     link: "https://book-store-by-savan.netlify.app/",
-    image: {BookStore},
+    image: BookStore,
   },
   {
     name: "E-learning",
     description:"An e-learning platform with interactive courses, built with React.js.",
     link: "https://e-learning-savan.netlify.app/",
-    image: {eLearning},
+    image: eLearning,
   },
   {
     name: "Clothes-Shop",
     description: "An online clothing store built with React.js and Redux.",
     link: "https://cloths-shoping-by-savan.netlify.app/",
-    image: {ClothShop},
+    image: ClothShop,
   },
   {
     name: "Foodie-eat",
     description: "A food eat landing page using React and tailwind.",
     link: "https://veg-restourant-savan.netlify.app/",
-    image: {FoodEat},
+    image: FoodEat,
   },
 ];
 
