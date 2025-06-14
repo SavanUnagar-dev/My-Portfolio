@@ -12,7 +12,7 @@ const Navbar = () => {
       className="w-full fixed top-0 z-50 bg-white dark:bg-gray-900 shadow-md"
     >
       <div className="max-w-7xl mx-auto px-4 py-6 flex justify-between items-center">
-        <h1 className="text-3xl font-bold text-indigo-600 dark:text-indigo-400">MyPortfolio</h1>
+        <h1 className="text-3xl font-bold text-indigo-600 dark:text-indigo-400">SavanUnagar</h1>
 
         {/* Desktop Menu */}
         <ul className="hidden md:flex space-x-8 text-lg font-medium text-gray-700 dark:text-white">

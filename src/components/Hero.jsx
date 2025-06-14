@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Img from "../assets/savan.png";
-import CV from "../assets/my-resume.png";
+import CV from "../assets/My_CV_SavanUnagar.pdf";
 
 const Hero = () => {
   return (
@@ -39,7 +39,7 @@ const Hero = () => {
             {/* Download CV Button */}
             <a
               href={CV}
-              download
+              download="Savan-Unagar-CV.pdf"
               className="md:px-6 md:py-3 p-3 bg-green-500 text-white rounded-xl shadow-md hover:bg-green-700 transition-all pointer-coarse"
             >
               Download My CV

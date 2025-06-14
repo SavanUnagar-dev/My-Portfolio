@@ -13,12 +13,12 @@ const experiences = [
       {
         title: 'Car Rental Service',
         details:
-          'Developed a car rental web app using React.js. Implemented vehicle browsing, real-time availability, user management, and search filters using Context API. Integrated Restful APIs for smooth data handling.',
+           'I built key UI parts of a car rental app that included vehicle browsing, availability display, and user account sections. I implemented search and filter functionality using React Context API to manage global state. The design was completely mobile responsive and created using Tailwind CSS and ShadCN components. My main focus was converting the Figma designs into functional UI with dynamic rendering using hooks and logic.'
       },
       {
         title: 'Follow Client CRM',
         details:
-          'Created a CRM system in React.js for managing customers. Integrated authentication, lead/contact management, and custom analytics dashboards for sales and support tracking.',
+          'This CRM project focused on managing leads and customer information. I worked on UI for authentication, contact forms, and lead management dashboards. I created dynamic components using React and JavaScript to display customer data and actions. The project also had an analytics dashboard which I helped design from the given Figma layout. After building these sections, I submitted the code to my senior who reviewed and merged it with the actual CRM system.'
       },
     ],
   },
